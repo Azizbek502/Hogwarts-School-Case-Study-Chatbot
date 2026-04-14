@@ -5,8 +5,7 @@ Getting Started
 
 1. Clone/Download the Project
 
-   git clone <your-repo-link>
-   cd <project-folder>
+   git clone https://github.com/Azizbek502/Hogwarts-School-Case-Study-Chatbot.git
 
 Or just download the files if you're not using Git.
 
