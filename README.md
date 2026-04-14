@@ -1,4 +1,6 @@
 # Hogwarts-School-Case-Study-Chatbot
+Demo working Chatbot: https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/04/12/10/20260412101519-LXZ9O83Y.json
+
 Getting Started
 
 1. Clone/Download the Project
